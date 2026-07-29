@@ -7,12 +7,12 @@ public class main{
         String address="5/101 Magudanchavadi,kunnipalayam,salem";
         int pincode=637103;
         double cgpa=8.7d;
-        System.out.println("Name"+str1);
-        System.out.println("Class"+str2);
-        System.out.println("section"+c);
-        System.out.println("Address"+ address);
-        System.out.println("Pincode"+ pincode);
-        System.out.println("Cgpa"+ cgpa);
+        System.out.println("Name:"+str1);
+        System.out.println("Class:"+str2);
+        System.out.println("section:"+c);
+        System.out.println("Address:"+ address);
+        System.out.println("Pincode:"+ pincode);
+        System.out.println("Cgpa:"+ cgpa);
     }    
  }
 }
